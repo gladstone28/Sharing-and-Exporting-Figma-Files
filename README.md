@@ -76,4 +76,6 @@ From the presentation view, you can:
 
 For more information on presentation view, check out [Figma’s guide to present your designs](https://help.figma.com/hc/en-us/articles/360040318013-Present-designs-and-prototypes).
 
+memory jog:
 
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/INTRODUCTION_TO_UI_AND_UX_DESIGN/Sharing-and-Exporting-Figma-Files
